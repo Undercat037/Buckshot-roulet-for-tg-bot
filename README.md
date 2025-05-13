@@ -1,2 +1,2 @@
 # Buckshot-roulet-for-tg-bot
-Питон код игры Buckshot roulet
+Код игры Buckshot roulet для тг бота,на питоне
