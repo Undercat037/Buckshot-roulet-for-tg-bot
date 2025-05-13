@@ -1401,7 +1401,7 @@ def dealer_decision(live, blank, dealer_items, next_cartridge, player_handcuffed
 
 def main():
     try:
-        application = Application.builder().token("7737354722:AAGmpFnyqL3jHLxGGCidz_oguT8ezZCNLmE").build()
+        application = Application.builder().token("TokenTgBota").build()
         
         application.add_handler(CommandHandler("start", start))
         application.add_handler(MessageHandler(
